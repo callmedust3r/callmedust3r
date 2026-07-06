@@ -17,8 +17,6 @@
 </a>  
   
 
-
-
 ### О себе:   
 Мне 21 год и я начинающий тестировщик приложений и всего в чём есть баги.🦠 В процессе тестирования я использую ИИ. 🤖
 
@@ -28,7 +26,6 @@
 <br/>
 
 </td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
@@ -51,22 +48,6 @@
 <br/>  
 
 
-## Github статистика  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=callmedust3r&&style=flat-square" align="center" />
@@ -77,6 +58,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
