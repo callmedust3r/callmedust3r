@@ -25,13 +25,7 @@
 Профиль в разработке.🙃  
   
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
+<br/>
 
 </td><td valign="top" width="50%">
 
@@ -42,7 +36,7 @@
 <br/>  
 
 
-## Languages and Tools  
+## Языки и инструменты  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>  
@@ -57,7 +51,7 @@
 <br/>  
 
 
-## Github Stats  
+## Github статистика  
 <table><tr><td valign="top" width="50%">
 
 
