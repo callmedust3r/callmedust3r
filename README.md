@@ -1,7 +1,5 @@
 <div align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50" alt="YouTube Icon"/>
-<a href="https://www.youtube.com/@codecareergolpo5638"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF3918&center=true&vCenter=true&width=430&lines=(Subscribe)+Code+%26+Career+Golpo+YouTube" alt="Typing SVG" /</a>
-</div>
 
 <div align="center">
 <a href="https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512"><img align='center' src= "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6rlf76l0a1eeo0yelzib.png" width="70%"></a> 
