@@ -10,8 +10,6 @@
 <div align="center" width="150px">
  
 В данный момент обучаюсь профессии тестировщика <b>, впоследствии хочу изучать языки программирования </b> <br />
-I am a CEO and content writer, **[Code & Career Golpo Newsletter](https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512)** (800+ Subscribers) <br />
-Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b>. <br />
 
 </div>
 
