@@ -27,79 +27,8 @@
 </p> -->
 
 <p align="center">
-<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumonta056&theme=moltack" />
-<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumonta056&theme=moltack"  />
-<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumonta056&theme=moltack"  />
 </p>
 
-<!-- ===================== TOP BUTTONS ===================== -->
-<div align="center">
-
-<a href="https://your-cv-link.com">
-  <img src="https://img.shields.io/badge/My%20CV-Sumonta-blue?style=for-the-badge&logo=readthedocs&logoColor=white" />
-</a> 
-
-<a href="https://medium.com/@sumontasaha80">
-  <img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-black?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-<a href="https://sumonta056.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-red?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ===================== SOCIAL ICONS ===================== -->
-
-</p>
-
-
-<table border="0">
-  <tr valign="top">
-    <td width="47%">
-      <div align="center">
-       <h2><b>🏆 Open Source Contribution 🏆</b></h3>
-       <p><i>Hacktoberfest 2023 Participation Badges</i></p>
-        <div>
-          <a href="https://holopin.io/@sumonta056">
-            <img src="https://github.com/Sumonta056/sumonta056/assets/61287791/f97aaaa3-d63f-4ef9-9d63-7151a3a5e0af" width="80%" />
-          </a>
-        </div>
-        <p>🌱 Passed all four levels of Hacktoberfest 2023 🌱</p>
-      </div>
-    </td>
-    <td width="47%">
-      <div align="center">
-        <h2>🏆 Invited to Google Foobar 🏆</h2>
-        <p><i>Google’s Secret Hiring Challenge</i></p>
-        <div>
-          <a href="https://holopin.io/@sumonta056">
-            <img src="https://github.com/user-attachments/assets/2d13dfb0-fe46-4b9d-a6fb-d79e0bf23c2a" width="90%" />
-          </a>
-        </div>
-        <br/>
-        <p>🌱 Successfully passed Level Two and continuing... 🌱</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-
-<!--Hacktober Fest-->
-<!-- <h3 align="center"><b>🏆Open Source Contribution : Hacktoberfest 2023 Participation Badges 🏆</b> </h3>
-<div align="center"><b>🌱 Passed All Four Level of Hacktoberfest 2023 🌱</b> </div><br>
-<div align="center">
-<a herf = "https://holopin.io/@sumonta056"><img src="https://github.com/Sumonta056/sumonta056/assets/61287791/f97aaaa3-d63f-4ef9-9d63-7151a3a5e0af" width="70%" ></a>
-</div> -->
- <!--Hacktober Fest-->
- <!--Google Foobar -->
-<!-- <h3 align="center"><b>🏆Got Invitation From Google Foobar : Google Secret Hiring Challenge.🏆</b> </h2>
-<div align="center"><b>🌱 Successfully Passed Level Two and Continuing... 🌱</b> </div><br>
-<div align="center">
-<a herf = "https://holopin.io/@sumonta056"><img src="https://github.com/Sumonta056/sumonta056/assets/61287791/9680d192-ec4f-46db-bd13-7f03a57005e3" width="70%" ></a>
-</div> -->
 
 
  <!-- Banners 2nd Phase -->
