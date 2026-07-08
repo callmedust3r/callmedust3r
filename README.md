@@ -22,7 +22,8 @@
 
 #### 😡 Языки на изучении
 
-- ![](https://cdn-icons-png.magnific.com/512/5968/5968286.png)
+- ![](<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5585af42-7804-4c59-a2b9-f8ee5351b023" />
+)
 - ![](https://icons8.ru/icon/40669/c++)
 
 #### 🚦 Version Control & Documentation Tools
