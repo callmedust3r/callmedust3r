@@ -193,49 +193,10 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 </p>
 <!-- Banners 4th Phase : SpiderMan -->
 
-#### 🦖 Competitive Programming
 
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
+#### 😡 Языки на изучении
 
-#### 📚 Frontend Development & Frameworks
-
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
-
-#### ⛏️ Backend Development & Database Services
-
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg)
-
-#### 😡 App Development
-
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg)
+- ![](https://cdn-icons-png.magnific.com/512/5968/5968286.png)
 
 #### 🚦 Version Control & Documentation Tools
 
