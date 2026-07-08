@@ -14,9 +14,6 @@
 </div>
 
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=sumonta056&label=Profile%20views&color=0e75b6&style=flat" alt="sumonta056" />
-<a herf = "https://wakatime.com/@sumonta056"> <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@sumonta056" /> </a> 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/sumonta056"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/sumonta056">
 </p>
  
 <!-- <p align='center'>
