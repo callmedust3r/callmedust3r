@@ -22,8 +22,7 @@
 
 #### 😡 Языки на изучении
 
-- ![](<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5585af42-7804-4c59-a2b9-f8ee5351b023" />
-)
+- ![](https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/development/c-plus-language-bmppy1mw8hjw3y1d05ulo.png/c-plus-language-968ux94wt4ro8iylr460lc.png?_a=DATAiZAAZAA0)
 - ![](https://icons8.ru/icon/40669/c++)
 
 #### 🚦 Version Control & Documentation Tools
