@@ -5,11 +5,11 @@
 </div>
 
 
-<h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Sumonta Saha Mridul </h1>
+<h1 align="center">Привет <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, я Артём </h1>
 
 <div align="center" width="150px">
  
-I am currently an <b>Associate Software Engineer I </b> at **[Cefalo Bangladesh Ltd](https://www.linkedin.com/company/cefalo-as/posts/?feedView=all)**. <br />
+В данный момент обучаюсь профессии тестировщика <b>, впоследствии хочу изучать языки программирования </b> <br />
 I am a CEO and content writer, **[Code & Career Golpo Newsletter](https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512)** (800+ Subscribers) <br />
 Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b>. <br />
 
@@ -57,51 +57,6 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 <br/>
 
 <!-- ===================== SOCIAL ICONS ===================== -->
-<p align="center">
-
-<a href="mailto:sumontasaha80@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="32" />
-</a>
-
-<a href="https://fb.com/sumonta.mridul">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="32" />
-</a>
-
-<a href="https://instagram.com/_sumonta_saha_">
-  <img src="https://skillicons.dev/icons?i=instagram" height="32" />
-</a>
-
-<a href="https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
-</a>
-
-<a href="https://medium.com/@sumontasaha80">
-  <img src="https://skillicons.dev/icons?i=devto" height="32" />
-</a>
-
-<a href="https://twitter.com/sumonta_saha">
-  <img src="https://skillicons.dev/icons?i=twitter" height="32" />
-</a>
-
-<a href="https://www.youtube.com/channel/UC7AQeCEbjh6J7vX4FXn3O1g">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" height="32" />
-</a>
-
-<a href="https://linktr.ee/sumontasaha">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" height="32" />
-</a>
-
-<a href="https://stackoverflow.com/users/13511410/sumonta-saha-mridul">
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="32" />
-</a>
-
-<a href="https://codeforces.com/profile/mR.sCraPPy">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="32" />
-</a>
-
-<a href="https://leetcode.com/Sumonta056/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" />
-</a>
 
 </p>
 
