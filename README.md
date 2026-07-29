@@ -27,23 +27,7 @@
   
   
 
-**ПРОФИЛЬ В РАЗРАБОТКЕ🙃**  
-  
-
-<br/>  
- 
-
-<br/>  
-
-## **<div align="center">🤖Языки и инструменты🤖</div>**  
-  
-
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="75" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
-</div>  
+**ПРОФИЛЬ В РАЗРАБОТКЕ🙃**   
 
 <br/>  
   
